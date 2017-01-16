@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MileKmConverter</string>
+
+    <string-array name="values">
+        <item>KM</item>
+        <item>Mile</item>
+    </string-array>
+</resources>
